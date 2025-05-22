@@ -4,6 +4,8 @@ Acessi é uma plataforma inteligente desenvolvida para melhorar a mobilidade urb
 
 📹 Pitch: https://youtu.be/hzPn7u_7BTI
 
+
+
 💡 Funcionalidades
     - Recebimento de alertas em tempo real sobre falhas e atrasos.
     - Gestão de notificações pelo time da CCR.
