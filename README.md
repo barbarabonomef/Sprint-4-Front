@@ -14,7 +14,7 @@ Acessi é uma plataforma inteligente desenvolvida para melhorar a mobilidade urb
 npm install
 npm run dev
 
-🔗 APIs e Tecnologias Utilizadas
+🔗 APIs e Tecnologias Utilizadas:
 API Direto dos Trens (Back-End em Python com deploy no Render, pode haver um delay de até 40 segundos na resposta ao fazer a primeira requisição após um período de inatividade)
 👉 https://ceci-ye57.onrender.com/api/status
 
